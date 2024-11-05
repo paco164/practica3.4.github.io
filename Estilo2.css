@@ -1,0 +1,47 @@
+
+#formulari {
+    width: 50%;
+    height: 80%;
+    border: 1px solid black;
+}
+
+#nombre {
+    margin-top: 10px;
+}
+
+#apellidos {
+    margin-top: 10px;
+}
+
+#sexo {
+    margin-top: 10px;
+}
+
+
+#correos {
+    margin-top: 10px;
+}
+
+#Población {
+    margin-top: 10px;
+}
+
+#descripcion {
+    margin-top: 10px;
+    height: 100px;
+
+}
+
+#spam{
+    margin-top: 30px;
+
+}
+
+#terminos{
+    margin-top: 10px;
+    
+}
+
+#enviar {
+    margin-top: 30px;
+}
